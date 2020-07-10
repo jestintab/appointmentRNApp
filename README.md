@@ -4,7 +4,7 @@
 
 1. git clone 
 2. npm install
-3. npm reat-native run-ios or npm reat-native run-android
+3. npm react-native run-ios or npm react-native run-android
 
 
 Backend: [https://github.com/jestintab/appointmentbackend](https://github.com/jestintab/appointmentbackend)
